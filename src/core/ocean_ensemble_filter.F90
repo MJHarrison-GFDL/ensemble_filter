@@ -9,7 +9,7 @@ use mpp_domains_mod, only : domain2D
 
 implicit none
 
-public :: ensemble_filter
+public :: ocean_ensemble_filter
 
 contains
 
